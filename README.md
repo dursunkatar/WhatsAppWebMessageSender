@@ -32,9 +32,6 @@
 - A valid WhatsApp account with access to **WhatsApp Web**.
 - **ChromeDriver** or **GeckoDriver** depending on your browser.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contribution
 Feel free to submit issues or pull requests if you have improvements or suggestions.
 
